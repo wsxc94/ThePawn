@@ -19,6 +19,38 @@ moblie-RPG in PlayStore
 ---
 - Unity 2019.4.16f1 (LTS)
 - Visual Studio 2017
+## 사용법
+---
+
+- 시작 및 로딩화면
+
+![그림2](https://user-images.githubusercontent.com/55977034/106613772-e7f0d600-65ad-11eb-8a10-7c591d668a22.png)
+
+![그림3](https://user-images.githubusercontent.com/55977034/106613775-e8896c80-65ad-11eb-857d-3232cb0c1b14.png)
+
+- 마을 맵 내에선 돌아다니며 다양한 NPC들과 상호작용을 통해 퀘스트를 획득할 수 있으며, 셰이더 그래프로 작성한 커스텀 셰이더를 통해 캐릭터가 벽 뒤에 위치하더라도 가시성을 확보했다.
+
+![그림4](https://user-images.githubusercontent.com/55977034/106613778-e9220300-65ad-11eb-8437-0f6d9ed2df1f.png)
+
+![그림5](https://user-images.githubusercontent.com/55977034/106613782-e9ba9980-65ad-11eb-9261-1e2290409995.png)
+
+- 퀘스트 및 대화 시스템을 진행하여 퀘스트를 확보할 수 있으며, 옵션 버튼을 통해 사운드 및 데이터 초기화 등의 설정을 수정할 수 있다.
+
+![그림8](https://user-images.githubusercontent.com/55977034/106613754-e45d4f00-65ad-11eb-8d9a-771c0c2431f5.png)
+
+![그림9](https://user-images.githubusercontent.com/55977034/106613761-e6271280-65ad-11eb-977d-55d0fe676d65.png)
+  
+- 마을 내에서 이용 가능한 상점 UI를 통해 다양한 재화나 상품을 구매하거나, 인벤토리를 통해 아이템을 착용 및 해제할 수 있다.
+
+![그림6](https://user-images.githubusercontent.com/55977034/106613785-ea533000-65ad-11eb-9075-7747587ed180.png)
+
+![그림7](https://user-images.githubusercontent.com/55977034/106613983-29818100-65ae-11eb-8339-29979726ce96.png)
+  
+- 마을에서 던전으로 입장하게 되면 절차적 생성 알고리즘을 이용하여 랜덤 던전이 생성되고, 스테이지별로 다양한 몬스터들을 상대로 플레이어 캐릭터를 조이스틱 및 버튼을 통해 조작하며 로그라이트 풍 전투 시스템을 즐길 수 있다.
+
+![그림10](https://user-images.githubusercontent.com/55977034/106613762-e6271280-65ad-11eb-9bb2-5c74fd947cbf.png)
+
+![그림11](https://user-images.githubusercontent.com/55977034/106613766-e6bfa900-65ad-11eb-83bd-a756c9c324db.png)
 
 ## 기여한 부분 (소스코드 업로드)
 - 기본 UI
