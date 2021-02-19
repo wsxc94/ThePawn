@@ -52,6 +52,8 @@ moblie-RPG in PlayStore
 
 ![그림11](https://user-images.githubusercontent.com/55977034/106613766-e6bfa900-65ad-11eb-83bd-a756c9c324db.png)
 
+![그림12](https://user-images.githubusercontent.com/43703023/108495809-986c1300-72ec-11eb-8e7a-326adac99f7c.PNG)
+
 ## 기여한 부분 (소스코드 업로드)
 - 기본 UI
 - 씬관리
