@@ -61,4 +61,4 @@ moblie-RPG in PlayStore
 - 몬스터 , 보스 (스테이트 패턴 , 추상화)
 - CC , 디버프  (Dictionary , List를 이용해 여러 버프 관리)
 - 카메라 (시네머신으로 여러 카메라 관리 및 연출)
-- 오브젝트 풀링 (Dictionary를 이용해 모든 풀링 오브젝트 관리)
+- 오브젝트 풀링 (Dictionary , Queue를 이용해 모든 풀링 오브젝트 관리)
