@@ -61,4 +61,4 @@ moblie-RPG in PlayStore
 - 몬스터 , 보스 (스테이트 패턴 , 추상화 , FSM(enum으로 상태값 애니메이션 동시제어) , CSV로 몬스터 능력치 데이터 로드)
 - CC , 디버프 (Dictionary , List를 이용해 여러 버프 관리)
 - 카메라 (시네머신으로 여러 카메라 관리 및 연출(시점 변경 , shake , 미니맵) , 터치 거리를 계산하여 카메라 회전 및 줌 인 아웃 )
-- 오브젝트 풀링 (Dictionary , Queue를 이용해 모든 풀링 오브젝트 관리)
+- 최적화 (오브젝트 풀링 (Dictionary , Queue를 이용해 모든 풀링 오브젝트 관리) , mesh bake 및 통합 , Sprite Atlas로 DrawCall 최적화 , simplygon으로 에셋 정점 50%정도 감소 )
