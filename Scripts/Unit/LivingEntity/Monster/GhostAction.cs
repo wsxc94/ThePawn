@@ -4,18 +4,6 @@ using System.Collections.Generic;
 using System.Collections;
 using System;
 
-////////////////////////////////////////////////////
-/*
-    File GhostAction.cs
-    class GhostAction
-    
-    담당자 : 김의겸
-    부 담당자 : 안영훈
-
-    유령 몬스터의 행동을 정의한다.
-*/
-////////////////////////////////////////////////////
-///
 public class GhostAction : MonsterAction
 {
     bool canPanic;

@@ -4,7 +4,7 @@
     class ManagerHolder
     
     담당자 : 이신홍
-    부 담당자 : 안영훈
+    부 담당자 : 안영훈 , 김기정
 
     전체 매니저를 관리하고 프로젝트의 세팅을 진행하는 클래스
 */
@@ -64,6 +64,7 @@ public class ManagerHolder : SingletonBase<ManagerHolder>
     /// </summary>
     private void AddManagersToStartGame()
     {
+        PlayerPrefs.DeleteAll();
         resourceManager = (ResourceManager)AddManager<ResourceManager>();
         objectPoolManager = (ObjectPoolManager)AddManager<ObjectPoolManager>();
         statusManager = (StatusManager)AddManager<StatusManager>();

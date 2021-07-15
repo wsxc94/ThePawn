@@ -83,5 +83,4 @@ public class Monster : LivingEntity
     {
         return UnityEngine.Random.Range(0, 100) < StatusManager.Instance.finalStatus.criticalPercent; 
     }
-
 }

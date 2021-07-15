@@ -3,8 +3,7 @@
     File BatAction.cs
     class BatAction
     
-    담당자 : 이신홍
-    부 담당자 : 안영훈
+    담당자 : 이신홍 , 안영훈
 
     박쥐의 행동을 정의한다.
 */

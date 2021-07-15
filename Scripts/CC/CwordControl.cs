@@ -38,10 +38,8 @@ public abstract class CwordControl
     {
         if (target != null)
         {
-
             target.CCManager.RemoveCC(type);
             target.CCManager.CurrentCC = null;
-
         }
     }
 }

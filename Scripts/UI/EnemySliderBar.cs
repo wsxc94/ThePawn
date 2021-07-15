@@ -4,18 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using Cinemachine;
 
-////////////////////////////////////////////////////
-/*
-    File EnemySliderBar.cs
-    class EnemySliderBar
-    
-    담당자 :  이신홍 , 안영훈
-    부 담당자 : 
-
-    몬스터 hp , mp 바
-*/
-////////////////////////////////////////////////////
-///
 public class EnemySliderBar : MonoBehaviour
 {
     CinemachineFreeLook cam;

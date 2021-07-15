@@ -3,8 +3,7 @@
     File DragonAction.cs
     class DragonAction
     
-    담당자 : 이신홍
-    부 담당자 : 안영훈
+    담당자 : 이신홍, 안영훈
 
     드래곤의 행동을 정의한다.
 */

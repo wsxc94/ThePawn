@@ -2,8 +2,7 @@
     File ArcherAction.cs
     class ArcherAction
     
-    담당자 : 김기정
-    부 담당자 : 안영훈
+    담당자 : 김기정 , 안영훈
  */
 
 using System.Collections;

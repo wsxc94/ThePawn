@@ -3,7 +3,8 @@
     File LoadingSceneManager.cs
     class LoadingSceneManager
     
-    담당자 : 김기정 , 안영훈
+    담당자 : 안영훈
+    부 담당자 : 김기정
 */
 ////////////////////////////////////////////////////
 using System.Collections;
