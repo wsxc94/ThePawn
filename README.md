@@ -53,12 +53,3 @@ moblie-RPG in PlayStore
 ![그림11](https://user-images.githubusercontent.com/55977034/106613766-e6bfa900-65ad-11eb-83bd-a756c9c324db.png)
 
 ![그림12](https://user-images.githubusercontent.com/43703023/108495990-d5380a00-72ec-11eb-9e8e-66f6aedc90c0.png)
-
-
-## 기여한 부분 (소스코드 업로드)
-- 기본 UI (조이스틱 , 스킬 버튼 등) UGUI 사용
-- 씬관리 (UI를 메인으로 둔 멀티씬 구성 및 로딩)
-- 몬스터 , 보스 (스테이트 패턴 , 추상화 , FSM(enum으로 상태값 애니메이션 동시제어) , CSV로 몬스터 능력치 데이터 로드)
-- CC , 디버프 (Dictionary , List를 이용해 여러 버프 관리)
-- 카메라 (시네머신으로 여러 카메라 관리 및 연출(시점 변경 , shake , 미니맵) , 터치 거리를 계산하여 카메라 회전 및 줌 인 아웃 )
-- 최적화 (오브젝트 풀링 (Dictionary , Queue를 이용해 모든 풀링 오브젝트 관리) , mesh bake 및 통합 , Sprite Atlas로 DrawCall 최적화 , simplygon으로 에셋 정점 50%정도 감소 )
